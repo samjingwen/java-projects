@@ -1,0 +1,4 @@
+rootProject.name = 'gradle-dept-mgmt'
+
+include 'cli'
+include 'gitutils'
